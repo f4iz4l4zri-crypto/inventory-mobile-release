@@ -1,10 +1,10 @@
-{
-  "platform": "android",
-  "latest_version": "1.0.6",
-  "latest_build": 7,
-  "min_supported_build": 1,
-  "apk_filename": "inventory_mobile_v1.0.6+7.apk",
-  "apk_url": "https://raw.githubusercontent.com/f4iz4l4zri-crypto/inventory-mobile-release/main/updates/android/inventory_mobile_v1.0.6+7.apk",
-  "notes": "Release v1.0.6+7 from latest commit with updater refresh and public update page support",
-  "published_at": "2026-03-29T07:18:16+08:00"
+﻿{
+    "platform":  "android",
+    "latest_version":  "1.0.7",
+    "latest_build":  8,
+    "min_supported_build":  1,
+    "apk_filename":  "inventory_mobile_v1.0.7+8.apk",
+    "apk_url":  "https://raw.githubusercontent.com/f4iz4l4zri-crypto/inventory-mobile-release/main/updates/android/inventory_mobile_v1.0.7+8.apk",
+    "notes":  "Release v1.0.7+8 with AI dokumen RAG, server diagnostics, citations, and support backend updates",
+    "published_at":  "2026-03-29T10:04:54+08:00"
 }
