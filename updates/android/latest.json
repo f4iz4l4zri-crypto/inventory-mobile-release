@@ -1,10 +1,10 @@
 ﻿{
     "platform":  "android",
-    "latest_version":  "1.0.8",
-    "latest_build":  9,
+    "latest_version":  "1.0.9",
+    "latest_build":  10,
     "min_supported_build":  1,
-    "apk_filename":  "inventory_mobile_v1.0.8+9.apk",
-    "apk_url":  "https://raw.githubusercontent.com/f4iz4l4zri-crypto/inventory-mobile-release/main/updates/android/inventory_mobile_v1.0.8+9.apk",
-    "notes":  "Release v1.0.8+9: iOS-ready adaptive UI, login server options simplified (Live + Manual localhost default), and technical support/job flow polish.",
-    "published_at":  "2026-04-06T12:00:00+08:00"
+    "apk_filename":  "inventory_mobile_v1.0.9+10.apk",
+    "apk_url":  "https://raw.githubusercontent.com/f4iz4l4zri-crypto/inventory-mobile-release/main/updates/android/inventory_mobile_v1.0.9+10.apk",
+    "notes":  "Release v1.0.9+10: fix mobile auth to only accept successful login redirect, preventing false login state and immediate 401 on dashboard stats.",
+    "published_at":  "2026-04-07T12:00:00+08:00"
 }
