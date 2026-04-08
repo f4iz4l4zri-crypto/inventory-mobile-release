@@ -1,10 +1,10 @@
-﻿{
-    "platform":  "android",
-    "latest_version":  "1.0.9",
-    "latest_build":  10,
-    "min_supported_build":  1,
-    "apk_filename":  "inventory_mobile_v1.0.9+10.apk",
-    "apk_url":  "https://raw.githubusercontent.com/f4iz4l4zri-crypto/inventory-mobile-release/main/updates/android/inventory_mobile_v1.0.9+10.apk",
-    "notes":  "Release v1.0.9+10: fix mobile auth to only accept successful login redirect, preventing false login state and immediate 401 on dashboard stats.",
-    "published_at":  "2026-04-07T12:00:00+08:00"
+{
+  "platform": "android",
+  "latest_version": "1.0.10",
+  "latest_build": 11,
+  "min_supported_build": 1,
+  "apk_filename": "inventory_mobile_v1.0.10+11.apk",
+  "apk_url": "https://raw.githubusercontent.com/f4iz4l4zri-crypto/inventory-mobile-release/main/updates/android/inventory_mobile_v1.0.10+11.apk",
+  "notes": "Release v1.0.10+11: server switch fix, job complete flow fix, AI routing update.",
+  "published_at": "2026-04-09T06:18:50+08:00"
 }
