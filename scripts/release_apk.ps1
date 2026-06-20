@@ -13,7 +13,7 @@ if (-not $ApkPath -or -not (Test-Path $ApkPath)) {
 }
 
 # Versioning: Copy APK with date tag
-date = Get-Date -Format "yyyyMMdd-HHmm"
+$date = Get-Date -Format "yyyyMMdd-HHmm"
 $dest = "updates/app-release-$date.apk"
 Copy-Item $ApkPath $dest -Force
 Write-Host "[INFO] APK copied to $dest"
